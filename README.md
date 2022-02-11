@@ -41,8 +41,11 @@ I really learnt a lot during this period of my challenge. It was a relly challen
 
 ### Useful resource
 Google fonts - this helped me in getting the font used in my project
-YouTube - this helped me when i encounter any kind of problems.
+YouTube - this helped when i encounter any kind of problem.
 
 ### Author 
 - Github - https://github.com/iammikun/Landing-Page-UI.git
 - twitter - https://twitter.com/
+
+### Acknowledgments
+I really want to thank God for life cause if not for his unfailing grace towards me i wouldn't be where i am today. Secondly i want to thank Grazac Academy for this wonderful oppurtunity they gave to me to be able to see what i'm capable of doing in the tech space, and i know i'm still going to achieve more greater height in months to come.
