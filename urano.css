@@ -24,9 +24,15 @@ header {
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    height: 10px;
-    margin: 5px;
-    padding: 80px 140px;
+    height: 15vh;
+    margin: auto;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    background-color: #ffffff;
+
 }
 
 .htext {
@@ -36,6 +42,8 @@ header {
     width: 89.37px;
     height: 24.17px;
     font-weight: bold;
+    padding-left: 10rem;
+
 }
 
 .htext > h2 {
@@ -58,24 +66,28 @@ header {
     height: 50px;
     font-size: 17px;
     color: #FFFFFF;;
-    margin-right: 120px;
+    margin-right: 240px;
     font-weight: bold;
 }
 
 .btn-1:hover {
     background-color: transparent;
+    width: 218px;
+    height: 52px;
     color: #0b162b;
     border: 5px solid #05558d;
-    font-size: 18px;
+    font-size: 22px;
+    border-radius: 8px;
 }
 
 .sect2 {
     display: flex;
     align-items: center;
-    margin: 150px;
-    margin-top: 10px;
+    margin: auto;
+    padding-top: 170px;
     font-family: var(--font-family-primary);
     color: #0B162B;
+    width: 80%;
 }
 
 .urano-txt > p {
